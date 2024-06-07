@@ -1,2 +1,2 @@
 # HCL-Training
-Creating for trianing purpose
+Created the Repository for training purpose
